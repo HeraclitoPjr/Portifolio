@@ -58,21 +58,3 @@
     min-height: 500px;
     font-family: 'Ubunto', sans-serif;
 }
-.home .max-width{
-    margin-top: 13vh;
-    margin-left: -9vh;
-}
-.home .home-content .text-1{
-    font-size: 20px;
-    margin: 5px 0;
-}
-.home .home-content .text-2{
-    font-size: 35px;
-    font-weight: 500;
-    margin-left: -3px;
-}
-.home .home-content .text-3{
-    font-size: 20px;
-    margin: 5px 0;
-}
-
